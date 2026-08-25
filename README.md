@@ -1,3 +1,3 @@
 #JavaScript Programming
 ##Netlify Hosted Link
-[Live Demo](programmingjs.netlify.app)
+[Live Demo](https://programmingjs.netlify.app)
